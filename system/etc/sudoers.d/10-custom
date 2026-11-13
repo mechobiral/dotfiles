@@ -1,0 +1,5 @@
+# Custom options
+# Defaults passprompt="󰊠 [sudo] Authentication required: "
+Defaults passprompt="[sudo] Password pwease uwu: "
+Defaults pwfeedback
+Defaults insults
